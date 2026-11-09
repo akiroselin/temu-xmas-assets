@@ -9,14 +9,24 @@
    "05-packaging": "temu5_05-packaging.png"
   }
  },
- "p002": {
-  "dir": "圣诞串珠圣诞树手工套件",
+ "p101": {
+  "dir": "圣诞串珠圣诞树手工套件/圣诞串珠圣诞树手工套件",
   "slots": {
-   "01-main": "temu5_01-main.png",
-   "02-detail": "temu5_02-detail.png",
-   "03-third": "temu5_03-size-reference.png",
-   "04-features": "temu5_04-features.png",
-   "05-packaging": "temu5_05-packaging.png"
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p102": {
+  "dir": "圣诞串珠圣诞树手工套件/彩色串珠散珠材料包",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
   }
  },
  "p003": {
@@ -31,16 +41,6 @@
  },
  "p004": {
   "dir": "圣诞发饰",
-  "slots": {
-   "01-main": "temu5_01-main.png",
-   "02-detail": "temu5_02-detail.png",
-   "03-third": "temu5_03-size-reference.png",
-   "04-features": "temu5_04-features.png",
-   "05-packaging": "temu5_05-packaging.png"
-  }
- },
- "p005": {
-  "dir": "圣诞图案毛绒拖鞋",
   "slots": {
    "01-main": "temu5_01-main.png",
    "02-detail": "temu5_02-detail.png",
@@ -139,14 +139,64 @@
    "05-packaging": "temu5_05-packaging.png"
   }
  },
- "p015": {
-  "dir": "圣诞挂饰混装组",
+ "p103": {
+  "dir": "圣诞拖鞋",
   "slots": {
-   "01-main": "temu5_01-main.png",
-   "02-detail": "temu5_02-detail.png",
-   "03-third": "temu5_03-size-reference.png",
-   "04-features": "temu5_04-features.png",
-   "05-packaging": "temu5_05-packaging.png"
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p104": {
+  "dir": "圣诞挂饰混装组/彩色钩织小花挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p105": {
+  "dir": "圣诞挂饰混装组/毛毡猫咪手包挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p106": {
+  "dir": "圣诞挂饰混装组/白色毛绒小熊挂件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p107": {
+  "dir": "圣诞挂饰混装组/紫水晶手链挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p108": {
+  "dir": "圣诞挂饰混装组/钩织雪花发带",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
   }
  },
  "p016": {
@@ -202,11 +252,11 @@
  "p021": {
   "dir": "圣诞树投影小夜灯",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p022": {
@@ -214,7 +264,7 @@
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -222,69 +272,79 @@
  "p023": {
   "dir": "圣诞楼梯灯串装饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p024": {
   "dir": "圣诞毛线挂饰组",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p025": {
   "dir": "圣诞毛绒拖鞋",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p026": {
   "dir": "圣诞毛绒拖鞋混装",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p027": {
   "dir": "圣诞毛绒蛋糕摆件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p028": {
   "dir": "圣诞沙发盖毯流苏",
   "slots": {
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
+  }
+ },
+ "p109": {
+  "dir": "圣诞玩偶挂饰混装/毛线圣诞玩偶套装",
+  "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
  },
- "p029": {
-  "dir": "圣诞玩偶挂饰混装",
+ "p110": {
+  "dir": "圣诞玩偶挂饰混装/钩织堆叠小猪玩偶",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -292,169 +352,219 @@
  "p030": {
   "dir": "圣诞精灵铃铛挂饰组",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p031": {
   "dir": "圣诞红球挂饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p032": {
   "dir": "圣诞红白毛绒拖鞋",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p033": {
   "dir": "圣诞花环铃铛门饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p034": {
   "dir": "圣诞花盆装饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p035": {
   "dir": "圣诞苔藓相框摆件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p036": {
   "dir": "圣诞苹果玩偶挂件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p037": {
   "dir": "圣诞蘑菇铃铛摆件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p038": {
   "dir": "圣诞蜡烛摆件",
   "slots": {
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
+  }
+ },
+ "p111": {
+  "dir": "圣诞装饰站立蓝色娃娃",
+  "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
+  }
+ },
+ "p112": {
+  "dir": "圣诞运动鞋",
+  "slots": {
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p039": {
   "dir": "圣诞铃铛挂件混装",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p040": {
   "dir": "圣诞门把手套和快乐圣诞树摆件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p041": {
   "dir": "圣诞门把手挂饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p042": {
   "dir": "圣诞雪人毛巾",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p043": {
   "dir": "圣诞雪人香薰蜡烛",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p044": {
   "dir": "圣诞风车庭院摆件",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p045": {
   "dir": "圣诞餐具礼盒六件套",
   "slots": {
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
+  }
+ },
+ "p113": {
+  "dir": "圣诞香水",
+  "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
  },
- "p046": {
-  "dir": "圣诞香薰与摆件混装",
+ "p114": {
+  "dir": "圣诞香薰与摆件混装/姜饼人木珠挂饰",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p115": {
+  "dir": "圣诞香薰与摆件混装/毛毡铃铛挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p116": {
+  "dir": "圣诞香薰与摆件混装/针织圣诞袜",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -462,21 +572,21 @@
  "p047": {
   "dir": "太阳能圣诞树庭院灯",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p048": {
   "dir": "太阳能圣诞老人庭院灯",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p049": {
@@ -492,21 +602,21 @@
  "p050": {
   "dir": "心形旋转挂饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p051": {
   "dir": "手工编织头饰",
   "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
+   "01-main": "temu5_01-main.png",
+   "02-detail": "temu5_02-detail.png",
+   "03-third": "temu5_03-size-reference.png",
+   "04-features": "temu5_04-features.png",
+   "05-packaging": "temu5_05-packaging.png"
   }
  },
  "p052": {
@@ -529,6 +639,16 @@
    "05-packaging": "05-packaging.png"
   }
  },
+ "p117": {
+  "dir": "手机壳",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
  "p054": {
   "dir": "手织红玫瑰向日葵杯垫",
   "slots": {
@@ -539,12 +659,42 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p055": {
-  "dir": "木质小动物摆件",
+ "p118": {
+  "dir": "木质小动物摆件/木质刺猬摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p119": {
+  "dir": "木质小动物摆件/木质小熊盆栽摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p120": {
+  "dir": "木质小动物摆件/木质长颈鹿摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p121": {
+  "dir": "木质小动物摆件/毛毡苹果挂件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -749,16 +899,6 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p076": {
-  "dir": "蘑菇圣诞挂饰",
-  "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
-  }
- },
  "p077": {
   "dir": "蘑菇陶瓷摆件",
   "slots": {
@@ -779,22 +919,72 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p079": {
-  "dir": "钩织发夹与雪花挂件",
+ "p122": {
+  "dir": "钩织发夹与雪花挂件/手工钩织花朵发夹",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
  },
- "p080": {
-  "dir": "钩织圣诞小物挂饰混装",
+ "p123": {
+  "dir": "钩织发夹与雪花挂件/钩织雪花发带",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p124": {
+  "dir": "钩织圣诞小物挂饰混装/彩色钩织发夹",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p125": {
+  "dir": "钩织圣诞小物挂饰混装/毛线发圈",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p126": {
+  "dir": "钩织圣诞小物挂饰混装/钩织仙人掌挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p127": {
+  "dir": "钩织圣诞小物挂饰混装/钩织圣诞人物挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p128": {
+  "dir": "钩织圣诞小物挂饰混装/钩织雪花发带挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -809,12 +999,22 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p082": {
-  "dir": "钩织红圣诞树挂饰",
+ "p129": {
+  "dir": "钩织红圣诞树挂饰/向日葵钩织花束挂袋",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p130": {
+  "dir": "钩织红圣诞树挂饰/红圣诞树毛线挂件玩偶",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -829,22 +1029,12 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p084": {
-  "dir": "钩织花环项链",
-  "slots": {
-   "01-main": "01-main.png",
-   "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
-   "04-features": "04-features.png",
-   "05-packaging": "05-packaging.png"
-  }
- },
  "p085": {
   "dir": "钩织门饰挂件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
@@ -919,12 +1109,22 @@
    "05-packaging": "05-packaging.png"
   }
  },
- "p093": {
-  "dir": "钩针圣诞花环挂件",
+ "p131": {
+  "dir": "钩针圣诞花环挂件/紫水晶手链",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
-   "03-third": "03-lifestyle.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p132": {
+  "dir": "钩针圣诞花环挂件/钩织花朵小花束",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
    "05-packaging": "05-packaging.png"
   }
