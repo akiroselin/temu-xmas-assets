@@ -849,6 +849,26 @@
    "05-packaging": "05-packaging.png"
   }
  },
+ "p944": {
+  "dir": "圣诞/向日葵钩织花束挂袋",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p945": {
+  "dir": "圣诞/圣诞串珠圣诞树手工套件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
  "p218": {
   "dir": "圣诞/圣诞主题贴纸摆件",
   "slots": {
@@ -1599,6 +1619,36 @@
    "05-packaging": "05-packaging.png"
   }
  },
+ "p946": {
+  "dir": "圣诞/姜饼人木珠挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p947": {
+  "dir": "圣诞/彩色钩织发夹",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p948": {
+  "dir": "圣诞/彩色钩织小花挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
  "p293": {
   "dir": "圣诞/彩钻圣诞树胸针",
   "slots": {
@@ -1621,6 +1671,66 @@
  },
  "p295": {
   "dir": "圣诞/手工编织圣诞树摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p949": {
+  "dir": "圣诞/手工钩织花朵发夹",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p950": {
+  "dir": "圣诞/毛毡猫咪手包挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p951": {
+  "dir": "圣诞/毛毡苹果挂件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p952": {
+  "dir": "圣诞/毛毡铃铛挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p953": {
+  "dir": "圣诞/毛线发圈",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p954": {
+  "dir": "圣诞/毛线圣诞玩偶套装",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -1659,8 +1769,48 @@
    "05-packaging": "05-packaging.png"
   }
  },
+ "p955": {
+  "dir": "圣诞/白色毛绒小熊挂件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
  "p299": {
   "dir": "圣诞/立体雪人圣诞贺卡",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p956": {
+  "dir": "圣诞/紫水晶手链",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p957": {
+  "dir": "圣诞/紫水晶手链挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p958": {
+  "dir": "圣诞/红圣诞树毛线挂件玩偶",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -1721,6 +1871,76 @@
  },
  "p305": {
   "dir": "圣诞/金色金属圣诞星形挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p959": {
+  "dir": "圣诞/针织圣诞袜",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p960": {
+  "dir": "圣诞/钩织仙人掌挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p961": {
+  "dir": "圣诞/钩织圣诞人物挂饰",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p962": {
+  "dir": "圣诞/钩织堆叠小猪玩偶",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p963": {
+  "dir": "圣诞/钩织花朵小花束",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p964": {
+  "dir": "圣诞/钩织雪花发带/钩织雪花发带",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-size-reference.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p965": {
+  "dir": "圣诞/钩织雪花发带挂饰",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
