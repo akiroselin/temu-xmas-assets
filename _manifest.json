@@ -140,7 +140,7 @@
   }
  },
  "p152": {
-  "dir": "刺绣/蓝色花朵汽车挂件",
+  "dir": "自然/礼品花束/蓝色花朵汽车挂件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -250,7 +250,7 @@
   }
  },
  "p160": {
-  "dir": "圣诞/手工针织圣诞树摆件",
+  "dir": "自然/礼品花束/手工针织圣诞树摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -320,7 +320,7 @@
   }
  },
  "p168": {
-  "dir": "勾线/粗线钩针花束",
+  "dir": "自然/礼品花束/粗线钩针花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -370,7 +370,7 @@
   }
  },
  "p173": {
-  "dir": "勾线/绿色钩针编织垫",
+  "dir": "自然/礼品花束/绿色钩针编织垫",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -460,7 +460,7 @@
   }
  },
  "p181": {
-  "dir": "圣诞/针织圣诞树屋",
+  "dir": "自然/礼品花束/针织圣诞树屋",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -530,7 +530,7 @@
   }
  },
  "p188": {
-  "dir": "勾线/钩织草莓花束",
+  "dir": "自然/礼品花束/钩织草莓花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -820,7 +820,7 @@
   }
  },
  "p944": {
-  "dir": "圣诞/向日葵钩织花束挂袋",
+  "dir": "自然/礼品花束/向日葵钩织花束挂袋",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -2840,7 +2840,7 @@
   }
  },
  "p963": {
-  "dir": "圣诞/钩织花朵小花束",
+  "dir": "自然/礼品花束/钩织花朵小花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -2860,7 +2860,7 @@
   }
  },
  "p1062": {
-  "dir": "圣诞/钩织蘑菇花篮摆件",
+  "dir": "自然/礼品花束/钩织蘑菇花篮摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -2950,7 +2950,7 @@
   }
  },
  "p1069": {
-  "dir": "圣诞/钩针粉色花束摆件",
+  "dir": "自然/礼品花束/钩针粉色花束摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -4620,7 +4620,7 @@
   }
  },
  "p445": {
-  "dir": "家居装饰/仿真五瓣花朵",
+  "dir": "自然/礼品花束/仿真五瓣花朵",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -4710,7 +4710,7 @@
   }
  },
  "p455": {
-  "dir": "家居装饰/仿真花礼盒花束",
+  "dir": "自然/礼品花束/仿真花礼盒花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -4740,7 +4740,7 @@
   }
  },
  "p458": {
-  "dir": "家居装饰/仿真菊花花束摆件",
+  "dir": "自然/礼品花束/仿真菊花花束摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -4760,7 +4760,7 @@
   }
  },
  "p460": {
-  "dir": "家居装饰/仿真郁金香花束",
+  "dir": "自然/礼品花束/仿真郁金香花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -4900,7 +4900,7 @@
   }
  },
  "p472": {
-  "dir": "家居装饰/天使花束摆件",
+  "dir": "自然/礼品花束/天使花束摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -5230,7 +5230,7 @@
   }
  },
  "p495": {
-  "dir": "家居装饰/毛毡向日葵摆件2",
+  "dir": "自然/礼品花束/毛毡向日葵摆件2",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -5430,7 +5430,7 @@
   }
  },
  "p518": {
-  "dir": "家居装饰/白色花朵装饰摆件",
+  "dir": "自然/礼品花束/白色花朵装饰摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -5550,7 +5550,7 @@
   }
  },
  "p530": {
-  "dir": "家居装饰/粉色仿真花艺摆件",
+  "dir": "自然/礼品花束/粉色仿真花艺摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -5680,7 +5680,7 @@
   }
  },
  "p543": {
-  "dir": "家居装饰/花束造型香薰蜡烛",
+  "dir": "自然/礼品花束/花束造型香薰蜡烛",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -6780,7 +6780,7 @@
   }
  },
  "p1185": {
-  "dir": "手工/羊毛毡花束摆件",
+  "dir": "自然/礼品花束/羊毛毡花束摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -6830,7 +6830,7 @@
   }
  },
  "p1186": {
-  "dir": "手工/钩针花束木质摆件",
+  "dir": "自然/礼品花束/钩针花束木质摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -6840,7 +6840,7 @@
   }
  },
  "p1187": {
-  "dir": "手工/钩针花束装饰摆件",
+  "dir": "自然/礼品花束/钩针花束装饰摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -6900,7 +6900,7 @@
   }
  },
  "p1188": {
-  "dir": "收纳清洁/奶油色绵羊发夹挂架",
+  "dir": "自然/礼品花束/奶油色绵羊发夹挂架",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8160,7 +8160,7 @@
   }
  },
  "p789": {
-  "dir": "玩具玩偶/红白蘑菇毛绒玩偶",
+  "dir": "自然/礼品花束/红白蘑菇毛绒玩偶",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8220,7 +8220,7 @@
   }
  },
  "p794": {
-  "dir": "玩具玩偶/蘑菇公仔毛绒玩偶",
+  "dir": "自然/礼品花束/蘑菇公仔毛绒玩偶",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8630,7 +8630,7 @@
   }
  },
  "p844": {
-  "dir": "自然/干花花束",
+  "dir": "自然/礼品花束/干花花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8640,7 +8640,7 @@
   }
  },
  "p845": {
-  "dir": "自然/手工仿真小花束",
+  "dir": "自然/礼品花束/手工仿真小花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8650,7 +8650,7 @@
   }
  },
  "p846": {
-  "dir": "自然/手工编织小花束",
+  "dir": "自然/礼品花束/手工编织小花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8660,7 +8660,7 @@
   }
  },
  "p847": {
-  "dir": "自然/毛毡花束摆件",
+  "dir": "自然/礼品花束/毛毡花束摆件",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8670,7 +8670,7 @@
   }
  },
  "p848": {
-  "dir": "自然/白菊花花束",
+  "dir": "自然/礼品花束/白菊花花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -8730,7 +8730,7 @@
   }
  },
  "p854": {
-  "dir": "自然/黄色毛毡花束",
+  "dir": "自然/礼品花束/黄色毛毡花束",
   "slots": {
    "01-main": "01-main.png",
    "02-detail": "02-detail.png",
@@ -9676,6 +9676,200 @@
    "02-detail": "02-detail.png",
    "03-third": "03-size-reference.png",
    "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1248": {
+  "dir": "家居装饰/原木动物摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1249": {
+  "dir": "家居装饰/原木猫咪摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-use-case.png",
+   "04-features": "04-scale.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1250": {
+  "dir": "自然/小型沉木",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1251": {
+  "dir": "家居装饰/木制蜗牛",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1252": {
+  "dir": "家居装饰/木雕兔子",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1253": {
+  "dir": "家居装饰/木雕公鸡",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1254": {
+  "dir": "家居装饰/木雕小猪",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1255": {
+  "dir": "家居装饰/木雕小猫",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1256": {
+  "dir": "家居装饰/木雕房子摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1257": {
+  "dir": "自然/木雕涉禽",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1258": {
+  "dir": "自然/木雕火烈鸟",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1259": {
+  "dir": "家居装饰/木雕老虎",
+  "slots": {}
+ },
+ "p1260": {
+  "dir": "自然/木雕蓝鲸",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1261": {
+  "dir": "家居装饰/木雕马",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1262": {
+  "dir": "自然/木雕鲸鲨",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1263": {
+  "dir": "自然/木雕鸭子",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1264": {
+  "dir": "自然/木雕鹈鹕",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1265": {
+  "dir": "自然/木雕鹭鸟",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1266": {
+  "dir": "家居装饰/木马摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
+   "05-packaging": "05-packaging.png"
+  }
+ },
+ "p1267": {
+  "dir": "家居装饰/蘑菇木摆件",
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "03-detail.png",
+   "03-third": "02-lifestyle.png",
+   "04-features": "04-use-case.png",
    "05-packaging": "05-packaging.png"
   }
  }
