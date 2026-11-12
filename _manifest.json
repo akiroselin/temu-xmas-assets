@@ -9791,7 +9791,13 @@
  },
  "p1259": {
   "dir": "家居装饰/木雕老虎",
-  "slots": {}
+  "slots": {
+   "01-main": "01-main.png",
+   "02-detail": "02-detail.png",
+   "03-third": "03-lifestyle.png",
+   "04-features": "04-features.png",
+   "05-packaging": "05-packaging.png"
+  }
  },
  "p1260": {
   "dir": "自然/木雕蓝鲸",
